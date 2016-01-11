@@ -1,0 +1,14 @@
+layout_spectrum: 0.5786881
+typography_spectrum: 0.2036511
+color:
+  saturation: 0.5242548
+  lightness: 0.4480059
+  brandStrength: 1
+  brandColors:
+    - '#F1FFFF'
+    - '#150E01'
+    - '#A35302'
+    - '#A3774B'
+    - '#E9BD9A'
+  rhythmicContrast: 0.08843181
+name: SimonDrage.com
